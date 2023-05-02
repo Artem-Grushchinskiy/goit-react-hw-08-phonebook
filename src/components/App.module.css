@@ -18,6 +18,9 @@ h1,
 h2 {
   text-shadow: 0px 0px 6px rgba(232, 193, 135, 0.7);
 }
+input {
+  box-shadow: 0px 0px 8px 0px #33333347;
+}
 input:focus {
   outline: 0;
 }

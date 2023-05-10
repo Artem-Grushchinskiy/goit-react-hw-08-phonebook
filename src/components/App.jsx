@@ -29,7 +29,7 @@ export const App = () => {
     );
     enterContacts
       ? alert(`${name} or ${number} is already in contacts`)
-      : setContacts([contact, ...contacts]);
+      : setContacts(prevContacts => [contact, ...prevContacts]);
   };
 
   const changeFilterInput = e => {
@@ -46,7 +46,6 @@ export const App = () => {
     setContacts(prevContacts =>
       prevContacts.filter(contact => contact.id !== id)
     );
-    // setContacts(contacts.filter(contact => contact.id !== id));
     setFilter('');
   };
 

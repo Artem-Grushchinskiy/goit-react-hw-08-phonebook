@@ -6,6 +6,7 @@ label {
 
 label > input {
   margin: 0;
+  margin-bottom: 24px;
 }
 
 .spanFind {

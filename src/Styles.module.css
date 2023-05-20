@@ -61,7 +61,11 @@
   left: 0;
   z-index: 1100;
   width: 100vw;
-  background-color: var(--bg__color);
+  background: linear-gradient(
+    180deg,
+    rgba(232, 193, 135, 0.891358024691358) 0%,
+    rgba(122, 88, 68, 1) 60%
+  );
   display: flex;
   flex-wrap: wrap;
   align-items: center;

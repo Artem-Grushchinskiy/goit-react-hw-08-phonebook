@@ -110,7 +110,7 @@
   font-weight: 700;
   font-size: 25px;
   transition-duration: 800ms;
-  color: var(--navlink__color);
+  color: var(--secondary__color);
   margin-right: 20px;
 }
 
@@ -140,7 +140,7 @@
   font-weight: 800;
   font-size: 30px;
   transition-duration: var(--transition__duration);
-  color: var(--bg__color);
+  color: var(--secondary__color);
 }
 .home__linc:hover,
 .active {

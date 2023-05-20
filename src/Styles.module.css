@@ -22,9 +22,9 @@
     rgba(232, 193, 135, 0.891358024691358) 0%,
     rgba(122, 88, 68, 1) 60%
   );
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
 }
 
 .please__container {

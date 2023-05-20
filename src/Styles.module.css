@@ -63,8 +63,8 @@
   width: 100vw;
   background: linear-gradient(
     180deg,
-    rgba(232, 193, 135, 0.891358024691358) 0%,
-    rgba(122, 88, 68, 1) 60%
+    rgba(232, 193, 135, 0.891358024691358) 20%,
+    rgba(122, 88, 68, 1) 30%
   );
   display: flex;
   flex-wrap: wrap;

@@ -8,8 +8,8 @@
 
   --navlink__hover: #ececf1;
 
-  --btn__red: rgba(255, 0, 0, 0.2);
-  --btn__green: rgba(79, 183, 93, 0.2);
+  --btn__red: rgba(255, 0, 0, 0.4);
+  --btn__green: rgba(79, 183, 93, 0.4);
   --btn__shadow: 0 0 2px #333;
 }
 

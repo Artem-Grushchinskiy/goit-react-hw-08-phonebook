@@ -11,13 +11,17 @@
 }
 
 .view__container {
-  width: 98%;
+  width: 100%;
   height: 100vh;
   display: flex;
   row-gap: 15px;
   flex-direction: column;
   padding: 100px var(--glob-padding);
-  background-image: url(./components/images/img3.jpeg);
+  background: linear-gradient(
+    0deg,
+    rgba(232, 193, 135, 0.891358024691358) 0%,
+    rgba(122, 88, 68, 1) 60%
+  );
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

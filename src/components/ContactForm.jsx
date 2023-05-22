@@ -1,7 +1,7 @@
 import s from '../Styles.module.css';
 
 import { useState } from 'react';
-import { useContacts } from './Hooks/hooks';
+import { useContacts } from '../Hooks/hooks';
 import { infoToast, successToast } from './Toasts';
 
 export const ContacstForm = () => {
